@@ -23,3 +23,9 @@ Lecture 3. The evolution of relationships<br>
 Lecture 4. The evolution of families<br>
 Lecture 5. The evolution of societies
 
+# Homework
+
+Students can submit homework to me via email or just give me paper in class.
+
+## Week 1
+It doesn't make sense that Dove's display has no fitness cost. If nothing else, it costs time and energy. Let $d$ be the cost of display. Assume that Dove pays this cost whenever it meets another Dove, whether it wins the resource or not, but not when it retreats from a Hawk. Analyze this new version of the game. 
