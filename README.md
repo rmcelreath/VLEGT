@@ -16,12 +16,14 @@ Specifics: Lectures will be chalk-on-slate and show the construction and solutio
 
 Credit: There will be a single homework problem each week that will help you solidify the lecture material and practice extending it. Students who complete all of the assignments can earn course credit.
 
-Topical outline:
+Topical outline:<br>
 Lecture 1. The evolution of conflict<br>
 Lecture 2. The evolution of cooperation<br>
 Lecture 3. The evolution of relationships<br>
 Lecture 4. The evolution of families<br>
 Lecture 5. The evolution of societies
+
+[Recordings](https://www.youtube.com/playlist?list=PLDcUM9US4XdPtHR9OZdjhYKVMv_RR42yk)
 
 # Homework
 
