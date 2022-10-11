@@ -31,3 +31,7 @@ Students can submit homework to me via email or just give me paper in class. You
 
 ## Week 1
 It doesn't make sense that Dove's display has no fitness cost. If nothing else, it costs time and energy. Let $d$ be the cost of display. Assume that Dove pays this cost whenever it meets another Dove, whether it wins the resource or not, but not when it retreats from a Hawk. Analyze this new version of the game. 
+
+## Week 2
+Analyze the evolutionary dynamics of the coordinate game from lecture, using the statistical assortment model. The coordination game is where "Safe" earns b when it meets itself, zero otherwise. "Risky" earns B when it meets itself, zero otherwise. Let p be the proportion of Risky in the population. Let r be the probability of assortment. Determine when each strategy is evolutionary stable and the location of any unstable equilibria.
+
