@@ -35,3 +35,5 @@ It doesn't make sense that Dove's display has no fitness cost. If nothing else, 
 ## Week 2
 Analyze the evolutionary dynamics of the coordinate game from lecture, using the statistical assortment model. The coordination game is where "Safe" earns b when it meets itself, zero otherwise. "Risky" earns B when it meets itself, zero otherwise. Let p be the proportion of Risky in the population. Let r be the probability of assortment. Determine when each strategy is evolutionary stable and the location of any unstable equilibria.
 
+## Week 3
+The iterated prisoner's dilemma is often criticized for presenting a too pessimistic view of the potential for cooperation, because many real contexts are not prisoner's dilemmas. Reanalyze the Tit-for-Tat strategy from lecture, but use a Stag Hunt payoff structure instead. This means that when both individuals cooperate, they both earn B. If one cooperates and the other does not, the cooperator earns zero (0). Non-cooperation always earns b < B. Consider when TFT is stable and can invade against ALLC and NO-C. Are there any qualitative differences from the prisoner's dilemma?
