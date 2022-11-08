@@ -37,3 +37,6 @@ Analyze the evolutionary dynamics of the coordinate game from lecture, using the
 
 ## Week 3
 The iterated prisoner's dilemma is often criticized for presenting a too pessimistic view of the potential for cooperation, because many real contexts are not prisoner's dilemmas. Reanalyze the Tit-for-Tat strategy from lecture, but use a Stag Hunt payoff structure instead. This means that when both individuals cooperate, they both earn B. If one cooperates and the other does not, the cooperator earns zero (0). Non-cooperation always earns b < B. Consider when TFT is stable and can invade against ALLC and NO-C. Are there any qualitative differences from the prisoner's dilemma?
+
+## Week 4
+Add kin assortment to the repeated prisoner's dilemma from Week 3. Rederive the invasion and stability conditions for Tit-for-Tat, assuming pairs of individuals are relatives with coefficient of relatedness r. How much relatedness is needed for TFT to invade when rare? How do relatedness r and relationship duration w interact?
