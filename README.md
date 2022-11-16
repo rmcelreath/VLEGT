@@ -40,3 +40,6 @@ The iterated prisoner's dilemma is often criticized for presenting a too pessimi
 
 ## Week 4
 Add kin assortment to the repeated prisoner's dilemma from Week 3. Rederive the invasion and stability conditions for Tit-for-Tat, assuming pairs of individuals are relatives with coefficient of relatedness r. How much relatedness is needed for TFT to invade when rare? How do relatedness r and relationship duration w interact?
+
+## Week 5
+No week 5 homework - you are free
