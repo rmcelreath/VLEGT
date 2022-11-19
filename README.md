@@ -43,3 +43,6 @@ Add kin assortment to the repeated prisoner's dilemma from Week 3. Rederive the 
 
 ## Week 5
 No week 5 homework - you are free
+
+## SOLUTIONS
+The solutions are in the file list at the top.
