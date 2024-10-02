@@ -4,12 +4,6 @@ Summary: Five 2-hour Lectures demonstrating how simple models of strategic inter
 
 Instructor: Richard McElreath
 
-Location: MPI-EVA Leipzig, main lecture hall
-
-Time: Tuesdays 10am-12pm
-
-Dates: 4 Oct, 11 Oct, 1 Nov, 8 Nov, 15 Nov
-
 Audience: Students and researchers at MPI-EVA and iDiv. If there is space, other Leipzig folks welcome.
 
 Specifics: Lectures will be chalk-on-slate and show the construction and solution of the most basic and famous results of evolutionary game theory. I'll provide extensive notes to accompany the lectures, but you'll still want a notebook to copy the board work during class. There will be algebra. But no calculus or advanced math required. 
