@@ -23,20 +23,20 @@ Lecture 5. The evolution of societies
 
 Students can submit homework to me via email or just give me paper in class. You are welcome to work in groups. Just submit your own individual solution. There is one problem each week, listed below.
 
-## Week 1
+## Lecture 1
 It doesn't make sense that Dove's display has no fitness cost. If nothing else, it costs time and energy. Let $d$ be the cost of display. Assume that Dove pays this cost whenever it meets another Dove, whether it wins the resource or not, but not when it retreats from a Hawk. Analyze this new version of the game. 
 
-## Week 2
+## Lecture 2
 Analyze the evolutionary dynamics of the coordinate game from lecture, using the statistical assortment model. The coordination game is where "Safe" earns b when it meets itself, zero otherwise. "Risky" earns B when it meets itself, zero otherwise. Let p be the proportion of Risky in the population. Let r be the probability of assortment. Determine when each strategy is evolutionary stable and the location of any unstable equilibria.
 
-## Week 3
+## Lecture 3
 The iterated prisoner's dilemma is often criticized for presenting a too pessimistic view of the potential for cooperation, because many real contexts are not prisoner's dilemmas. Reanalyze the Tit-for-Tat strategy from lecture, but use a Stag Hunt payoff structure instead. This means that when both individuals cooperate, they both earn B. If one cooperates and the other does not, the cooperator earns zero (0). Non-cooperation always earns b < B. Consider when TFT is stable and can invade against ALLC and NO-C. Are there any qualitative differences from the prisoner's dilemma?
 
-## Week 4
+## Lecture 4
 Add kin assortment to the repeated prisoner's dilemma from Week 3. Rederive the invasion and stability conditions for Tit-for-Tat, assuming pairs of individuals are relatives with coefficient of relatedness r. How much relatedness is needed for TFT to invade when rare? How do relatedness r and relationship duration w interact?
 
-## Week 5
-No week 5 homework - you are free
+## Lecture 5
+No Lecture 5 homework - you are free
 
 ## SOLUTIONS
 The solutions are in the file list at the top.
